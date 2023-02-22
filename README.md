@@ -3,6 +3,5 @@
 ## Installation guide
 
 - Clone the repo and get the app root directory
-- Run the commamnd `npm i`
+- Run the commamnd `npm i` followed by `npm start`
 - Access the application in `http://localhost:3000` port (Simple react app)
-
